@@ -1,4 +1,4 @@
-# Frontend Project README
+## SmoothScroll Swiper Frontend Project 
 
 Welcome to the documentation for the frontend project! This project utilizes HTML, CSS, and JavaScript to create a smooth and interactive user experience. Additionally, it leverages the Swiper and Locomotive Scroll JavaScript libraries to enhance the overall presentation and navigation.
 
@@ -21,7 +21,7 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/pritamroy1305
    ```
 
 2. Open the project in your preferred code editor.
