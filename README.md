@@ -1,4 +1,4 @@
-## SmoothScroll Swiper Frontend Project 
+# SmoothScroll Swiper Frontend Project 
 
 Welcome to the documentation for the frontend project! This project utilizes HTML, CSS, and JavaScript to create a smooth and interactive user experience. Additionally, it leverages the Swiper and Locomotive Scroll JavaScript libraries to enhance the overall presentation and navigation.
 
